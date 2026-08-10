@@ -11,6 +11,7 @@
             "Donut Browser"
         ]
     ],
+    "persist": "Donut-Portable\\data",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/zhom/donutbrowser/releases/download/$version/Donut_$version_x64-portable.zip"
