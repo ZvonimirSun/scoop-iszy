@@ -2,22 +2,22 @@
 
 `scoop bucket add iszy 'https://github.com/ZvonimirSun/scoop-iszy.git'`
 
-本 Repository 主要用于个人使用，采用 Ash258 大佬的项目模板，已采用 Github Actions 自动更新。
+本 Repository 主要用于个人使用，已采用 Github Actions 自动更新。
 
 - [Scoop bucket 模板](https://github.com/Ash258/GenericBucket)
 - [Manifests](#manifests)
 
 ## Manifests
 
-| 应用名称                                                                                     |                           Scoop 内名称                           | 来源                                                                    |
-| -------------------------------------------------------------------------------------------- | :--------------------------------------------------------------: | ----------------------------------------------------------------------- |
-| [LAV Filters](https://github.com/Nevcairiel/LAVFilters)                                      |              [lavfilters](./bucket/lavfilters.json)              |                                                                         |
-| [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)                                  |                [lx-music](./bucket/lx-music.json)                |                                                                         |
-| [万彩办公大师](http://www.wofficebox.com/)                                                   |               [officebox](./bucket/officebox.json)               |                                                                         |
-| [Oracle Instant Client](https://www.oracle.com/database/technologies/instant-client.html)    |   [oracle-instant-client](./bucket/oracle-instant-client.json)   |                                                                         |
-| [Oracle Instant Client 11](https://www.oracle.com/database/technologies/instant-client.html) | [oracle-instant-client11](./bucket/oracle-instant-client11.json) |                                                                         |
-| [Oracle JDK 8](https://www.oracle.com/technetwork/java/javase/overview/index.html)           |              [oraclejdk8](./bucket/oraclejdk8.json)              |                                                                         |
-| [PicGo](https://github.com/Molunerfinn/PicGo)                                                |                   [picgo](./bucket/picgo.json)                   | [helbing/scoop-bucket](https://github.com/helbing/scoop-bucket)         |
+| 应用名称                                                                                     |                           Scoop 内名称                           | 来源                                                            |
+| -------------------------------------------------------------------------------------------- | :--------------------------------------------------------------: | --------------------------------------------------------------- |
+| [LAV Filters](https://github.com/Nevcairiel/LAVFilters)                                      |              [lavfilters](./bucket/lavfilters.json)              |                                                                 |
+| [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)                                  |                [lx-music](./bucket/lx-music.json)                |                                                                 |
+| [万彩办公大师](http://www.wofficebox.com/)                                                   |               [officebox](./bucket/officebox.json)               |                                                                 |
+| [Oracle Instant Client](https://www.oracle.com/database/technologies/instant-client.html)    |   [oracle-instant-client](./bucket/oracle-instant-client.json)   |                                                                 |
+| [Oracle Instant Client 11](https://www.oracle.com/database/technologies/instant-client.html) | [oracle-instant-client11](./bucket/oracle-instant-client11.json) |                                                                 |
+| [Oracle JDK 8](https://www.oracle.com/technetwork/java/javase/overview/index.html)           |              [oraclejdk8](./bucket/oraclejdk8.json)              |                                                                 |
+| [PicGo](https://github.com/Molunerfinn/PicGo)                                                |                   [picgo](./bucket/picgo.json)                   | [helbing/scoop-bucket](https://github.com/helbing/scoop-bucket) |
 
 > 部分 manifest 收集自其他 repo，可能做了修改。
 
