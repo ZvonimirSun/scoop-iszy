@@ -16,6 +16,6 @@
         "github": "https://github.com/zhom/donutbrowser"
     },
     "autoupdate": {
-        "url": "https://github.com/zhom/donutbrowser/releases/download/$version/Donut_$version_x64-portable.zip"
+        "url": "https://github.com/zhom/donutbrowser/releases/download/v$version/Donut_$version_x64-portable.zip"
     }
 }
